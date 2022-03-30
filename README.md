@@ -17,7 +17,7 @@ POST [project_url]/api/shorturl - https://www.google.com
 
 ### Example Usage
 
-[this_project_url]/api/shorturl/ZO6zukmYP
+[project_url]/api/shorturl/20
 
 #### Will Redirect to:
 
